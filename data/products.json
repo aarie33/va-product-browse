@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Smartphone Premium X1",
+    "description": "Smartphone flagship dengan kamera 108MP, RAM 12GB, dan storage 256GB",
+    "price": "Rp 15.999.000",
+    "category": "Electronics",
+    "availability": true
+  },
+  {
+    "id": "prod-002",
+    "name": "Laptop Gaming Pro",
+    "description": "Laptop gaming dengan processor Intel i7, RTX 3070, RAM 16GB",
+    "price": "Rp 25.999.000",
+    "category": "Electronics",
+    "availability": true
+  },
+  {
+    "id": "prod-003",
+    "name": "Wireless Headphones",
+    "description": "Headphones wireless dengan noise cancellation dan baterai 30 jam",
+    "price": "Rp 2.499.000",
+    "category": "Audio",
+    "availability": false
+  }
+]

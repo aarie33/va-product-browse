@@ -1,0 +1,11 @@
+Q: Apa itu layanan virtual assistant?
+A: Virtual assistant adalah layanan AI yang membantu Anda mendapatkan informasi produk, menjawab pertanyaan, dan memberikan rekomendasi secara otomatis.
+
+Q: Bagaimana cara menggunakan layanan ini?
+A: Anda dapat mengirim pesan melalui chat dan sistem akan memberikan jawaban berdasarkan knowledge base yang tersedia.
+
+Q: Apakah layanan ini tersedia 24/7?
+A: Ya, virtual assistant kami tersedia 24 jam sehari, 7 hari seminggu untuk membantu Anda.
+
+Q: Bisakah saya mendapatkan rekomendasi produk?
+A: Tentu saja! Kami dapat memberikan rekomendasi produk berdasarkan kebutuhan dan preferensi Anda.
