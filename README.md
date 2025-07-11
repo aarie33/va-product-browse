@@ -1,4 +1,4 @@
-# Virtual Assistan for Product Browse
+# Virtual Assistant for Product Browse
 
 ## Installation
 - npm run install
